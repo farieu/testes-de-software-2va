@@ -30,7 +30,7 @@ Cypress.Commands.add("apiLogin", () => {
     url: "https://acolhebe-disciplina.innovagovlab.org/api/v1/auth/login",
     body: {
       username: "roberto.oaraujo@ufrpe.br",
-      password: "fihR7m",
+      password: "####",
     },
   }).then((response) => {
     expect(response.status).to.eq(200);

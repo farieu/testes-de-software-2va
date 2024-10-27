@@ -1,0 +1,37 @@
+[
+    {
+        "cpf": "812.339.492-68",
+        "nome": "Neymar Júnior",
+        "telefone": "81912345678",
+        "habilidades": "Pintar, Cozinhar",
+        "disponibilidade": ["Manhã", "Tarde", "Noite"]
+    },
+    {
+        "cpf": "186.542.858-26",
+        "nome": "Lionel Messi",
+        "telefone": "21987654321",
+        "habilidades": "Primeiros socorros",
+        "disponibilidade": ["Noite", "Madrugada"]
+    },
+    {
+        "cpf": "587.041.788-07",
+        "nome": "Cristiano Ronaldo",
+        "telefone": "11905678461",
+        "habilidades": "Vendas",
+        "disponibilidade": ["Noite"]
+    },
+    {
+        "cpf": "456.881.488-02",
+        "nome": "Kyllian Mbappé",
+        "telefone": "31976103542",
+        "habilidades": "Marceneiro, Mecânico",
+        "disponibilidade": ["Manhã"]
+    },
+    {
+        "cpf": "117.638.307-80",
+        "nome": "Rodrygo Góes",
+        "telefone": "41915975304",
+        "habilidades": "Eletricista",
+        "disponibilidade": ["Manhã", "Tarde", "Noite"]
+    }
+]
